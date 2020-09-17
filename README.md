@@ -24,3 +24,6 @@ Live URL link:
 
         https://wkgrant78.github.io/WKG-HW1/
 
+![picture](https://github.com/wkgrant78/WKG-HW1/blob/master/horiseon-screenshot.jpg)
+
+
