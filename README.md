@@ -1,5 +1,3 @@
-# HW1 - Code Refactor
-
 Cleaned index code structure by seperating, grouping, adding spaces and indentations to help seperate elements.
 
 Noted changes in index.html and style.css
@@ -17,3 +15,12 @@ Assigned 'section id' to content in 'article class'
 Added alt attributes to img in 'article class'
 
 , 'aside'
+
+Link to GitHub Repo:
+
+        https://github.com/wkgrant78/WKG-HW1
+
+Live URL link: 
+
+        https://wkgrant78.github.io/WKG-HW1/
+
