@@ -37,7 +37,12 @@ Changed text color to reduce strain on eyes
 
 Changed font size for better viewing
 
+Issues/Improvements:
 
+Had difficulty grouping elements in style .css
+
+        - experimented with various class=''
+        - probably an easy fix, open to all input
 
 
 Required Assignment Criteria:
